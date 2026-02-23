@@ -13,5 +13,4 @@ scope: INDIVIDUAL
 
 - Settings >
     - [ ]  Sessions, Personal API keys, & Authorized Applications > **Review and remove any unnecessary or unrecognized**
-    - [ ]  Passkeys > Add a passkey (recommended)
-	- [ ]  Connected Accounts > **Review and remove any unnecessary or unrecognized**
+
