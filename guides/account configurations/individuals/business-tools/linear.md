@@ -14,8 +14,7 @@ scope: INDIVIDUAL
 - Settings >
     - [ ]  Sessions, Personal API keys, & Authorized Applications > **Review and remove any unnecessary or unrecognized**
     - [ ]  I added it, need to see progress 50
-    - [ ]  added this now, needed to change from 100% to 66%
     - [ ]  yfjkbikihoik
     - [ ]  sdnvlskkvc
-    - [ ]  fdgdfgs
+    - [ ]  fdgdfgs changed
 
