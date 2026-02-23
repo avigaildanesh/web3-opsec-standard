@@ -13,7 +13,7 @@ scope: INDIVIDUAL
 
 - Settings >
     - [ ]  Sessions, Personal API keys, & Authorized Applications > **Review and remove any unnecessary or unrecognized**
-    - [ ]  I added it, need to see progress 50
+    - [ ]  I added it, need to see progress 50 > it mark and i cchange it
     - [ ]  yfjkbikihoik
     - [ ]  sdnvlskkvc
     - [ ]  fdgdfgs changed
