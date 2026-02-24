@@ -21,16 +21,8 @@
 
 ### **Individual Wallet Security**
 
-**SP-WM-002: Hardware Wallet Features**
-- Hardware wallets must support large screens capable of displaying complete transaction data
-- Clear signing technology is recommended
-- Devices must have secure PIN entry with randomized entry layouts
-- PIN entry must have time-based lockouts to prevent brute force attacks
-- Hardware wallets must support firmware integrity verification
-
 **SP-WM-003: Mnemonic Seed Phrase Protection**
-- Seed phrases must be stored on disaster-resistant, physical media
-- Seed phrases must not be stored in plain text - importing them must require a passphrase, additional word, or be scrambled with a random word order; with the secret stored in a password manager
+- Seed phrases must not be stored in plain text - importing them must require a passphrase, additional word, or be scrambled with a random word order; with the secret stored in a password manager xxx
 - Private keys and seed phrases must be generated on wallet devices and must never be exported
 - Alternatively, seed phrases can be sharded using Shamir's Secret Sharing algorithm, with each shard recommended to be shared with a trusted guardian (3rd party custodian service, family members, password manager, personal physical media, etc.)
 
