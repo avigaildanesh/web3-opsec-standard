@@ -20,8 +20,6 @@
 - R-WM-017: Proposer Impersonation
 
 ### **Individual Wallet Security**
-**SP-WM-002: Mnemonic Seed Phrase Protection**
-- added it
 
 **SP-WM-003: Mnemonic Seed Phrase Protection**
 - Seed phrases must not be stored in plain text - importing them must require a passphrase, additional word, or be scrambled with a random word order; with the secret stored in a password manager xxx
