@@ -2,7 +2,6 @@
 
 ## Risks
 
-- R-WM-001: Private Key and Seed Phrase Compromise
 - R-WM-002: Multi-Signature Wallet Misconfiguration
 - R-WM-003: Social Engineering Attacks Targeting Signers
 - R-WM-004: Hardware Wallet Vulnerabilities
@@ -21,10 +20,6 @@
 - R-WM-017: Proposer Impersonation
 
 ### **Individual Wallet Security**
-
-**SP-WM-001: Authentic Hardware Procurement**
-- Hardware wallets should be obtained through verified supply chains (direct from manufacturer is ideal)
-- Device authenticity must be cryptographically verifiable upon receipt
 
 **SP-WM-002: Hardware Wallet Features**
 - Hardware wallets must support large screens capable of displaying complete transaction data
