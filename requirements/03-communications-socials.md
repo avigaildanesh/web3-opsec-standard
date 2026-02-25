@@ -13,10 +13,6 @@
 
 ### **Account Security**
 
-**SP-CS-001: Multi-Factor Authentication for All Accounts**
-- All organizational communication accounts must implement multi-factor authentication
-- SMS-based authentication must not be used as a primary or backup factor
-- Hardware security keys should be used where supported by platforms
 
 **SP-CS-002: Account Recovery Protection**
 - Account recovery options can be used, but SMS recovery should not be enabled
