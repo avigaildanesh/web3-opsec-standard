@@ -2,7 +2,6 @@
 
 ## Risks
 
-- R-EP-001: Malware Infection and Credential Theft
 - R-EP-002: Physical Device Compromise
 - R-EP-003: Network-Based Attacks and Lateral Movement
 - R-EP-004: Social Engineering Targeting Device Users
@@ -17,11 +16,6 @@
 - R-PS-013: Theft or Tampering of Privileged Devices
 
 ### **Device Management**
-
-**SP-EP-001: Dedicated Devices**
-- Each organization member must have a device dedicated to organization-related activities and work
-- Devices should have biometric login options, secure boot, and support for full disk encryption
-- Personal devices must never be used for work activities or have access to organization accounts
 
 **SP-EP-002: Device Supply Chain Security**
 - Dedicated devices should be procured by the organization directly from manufacturers or authorized distributors
